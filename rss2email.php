@@ -25,8 +25,8 @@ $recepients_list_file = "$SCRIPT_DIR/rss_recepients_list.json";
   {
     "http:\/\/site\/projects\/news.atom?key=2cdbbbe5dc809a33d2ba4aa5391da4875bd42c40":
     [
-      "dsin@ezan.ac.ru",
-      "oleg@ezan.ac.ru"
+      "user1@example.org",
+      "user2@example.org"
     ],
     "feed2_url":[subscribers_list],
 
